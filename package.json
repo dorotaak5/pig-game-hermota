@@ -1,0 +1,15 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "Will practice node with a pig game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herman",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
